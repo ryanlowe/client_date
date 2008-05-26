@@ -1,2 +1,3 @@
 
-- optionally show seconds in the time
+- assumes the server stores in UTC?
+  -- convert anyway with .utc() ?
